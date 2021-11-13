@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/solbound/static/css/main.37817781.chunk.css",
+    "main.js": "/solbound/static/js/main.6b05b1c3.chunk.js",
+    "main.js.map": "/solbound/static/js/main.6b05b1c3.chunk.js.map",
+    "runtime-main.js": "/solbound/static/js/runtime-main.2d806fe3.js",
+    "runtime-main.js.map": "/solbound/static/js/runtime-main.2d806fe3.js.map",
+    "static/js/2.cf3f85ac.chunk.js": "/solbound/static/js/2.cf3f85ac.chunk.js",
+    "static/js/2.cf3f85ac.chunk.js.map": "/solbound/static/js/2.cf3f85ac.chunk.js.map",
+    "static/js/3.e29fccec.chunk.js": "/solbound/static/js/3.e29fccec.chunk.js",
+    "static/js/3.e29fccec.chunk.js.map": "/solbound/static/js/3.e29fccec.chunk.js.map",
+    "index.html": "/solbound/index.html",
+    "static/css/main.37817781.chunk.css.map": "/solbound/static/css/main.37817781.chunk.css.map",
+    "static/js/2.cf3f85ac.chunk.js.LICENSE.txt": "/solbound/static/js/2.cf3f85ac.chunk.js.LICENSE.txt",
+    "static/media/background.206ed34c.png": "/solbound/static/media/background.206ed34c.png",
+    "static/media/logo.4246ebcd.png": "/solbound/static/media/logo.4246ebcd.png",
+    "static/media/snap1.a5b47736.png": "/solbound/static/media/snap1.a5b47736.png",
+    "static/media/snapt2.7ca421b7.png": "/solbound/static/media/snapt2.7ca421b7.png",
+    "static/media/snapt3.20eb0d13.png": "/solbound/static/media/snapt3.20eb0d13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d806fe3.js",
+    "static/js/2.cf3f85ac.chunk.js",
+    "static/css/main.37817781.chunk.css",
+    "static/js/main.6b05b1c3.chunk.js"
+  ]
+}
